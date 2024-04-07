@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\bin\Debug\Lista1ex2.exe.config
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\bin\Debug\Lista1ex2.exe
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\bin\Debug\Lista1ex2.pdb
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\obj\Debug\Lista1ex2.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\obj\Debug\Lista1ex2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\obj\Debug\Lista1ex2.exe
+C:\Users\eduar\source\repos\Lista1ex2\Lista1ex2\obj\Debug\Lista1ex2.pdb
