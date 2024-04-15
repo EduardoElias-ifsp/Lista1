@@ -21,9 +21,7 @@ namespace Lista1ex6
 
             media = Math.Sqrt(v1 * v2);
 
-            Console.Write("A média geométrica é: ");
-            Console.WriteLine(media);
-
+            Console.Write("A média geométrica é: {0}",media);
         }
     }
 }
