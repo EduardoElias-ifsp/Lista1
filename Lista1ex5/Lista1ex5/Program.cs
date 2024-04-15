@@ -26,9 +26,7 @@ namespace Lista1ex5
             v4 = int.Parse(Console.ReadLine());
 
             media = (v1 + v2 + v3 + v4) / 4;
-            Console.Write("A média dos valores é: ");
-            Console.WriteLine(media);
-
+            Console.Write("A média dos valores é: {0}",media);
         }
 }
 }
