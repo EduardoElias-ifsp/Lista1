@@ -22,8 +22,7 @@ namespace Lista1ex10
             real = cotacao * dolar;
 
 
-            Console.Write("A quantide de reais é: ");
-            Console.WriteLine(real);
+            Console.Write("A quantide de reais é: {0}",real);
         }
     }
 }
