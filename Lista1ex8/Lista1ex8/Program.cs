@@ -20,10 +20,7 @@ namespace Lista1ex8
             resultado = celsius * 9 / 5 + 32;
 
             Console.Write(celsius);
-            Console.Write(" graus Celcius em Fahrenheit: ");
-            Console.WriteLine(resultado);
-
-            
+            Console.Write(" graus Celcius em Fahrenheit: {0}",resultado);
         }
     }
 }
