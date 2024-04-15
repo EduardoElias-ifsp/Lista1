@@ -21,8 +21,7 @@ namespace Lista1ex11
 
             resultado = Math.Pow(x, y);
 
-            Console.Write("O resultado é: ");
-            Console.WriteLine(resultado);
+            Console.Write("O resultado é: {0}",resultado);
         }
     }
 }
