@@ -35,8 +35,7 @@ namespace Lista1ex12
 
             troco = pagamento - (v1 + v2 + v3 + v4 + v5);
 
-            Console.Write("O troco a ser devolvido é: ");
-            Console.WriteLine(troco);
+            Console.Write("O troco a ser devolvido é: {0}",troco);
         }
     }
 }
