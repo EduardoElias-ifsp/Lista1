@@ -20,8 +20,7 @@ namespace Lista1ex9
             area = 3.14159 / 4 *( diametro * diametro);
 
        
-            Console.Write("a área do círculo área: ");
-            Console.WriteLine(area);
+            Console.Write("a área do círculo área: {0}",area);
         }
     }
 }
