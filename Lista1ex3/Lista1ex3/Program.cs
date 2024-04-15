@@ -19,8 +19,7 @@ namespace Lista1ex3
 
 
             area = diagonal * diagonal / 2;
-            Console.Write("A área do quadrado é: ");
-            Console.WriteLine(area);
+            Console.Write("A área do quadrado é: {0}",area);
         }
     }
 }
