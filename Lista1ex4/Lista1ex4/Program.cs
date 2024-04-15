@@ -22,9 +22,7 @@ namespace Lista1ex4
 
             area = (a * b) / 2;
 
-            Console.Write("A área do triângulo é: ");
-            Console.WriteLine(area);
-
+            Console.Write("A área do triângulo é: {0}",area);
         }
     }
 }
