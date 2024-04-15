@@ -21,8 +21,7 @@ namespace Lista1ex7
             saida = entrada * 1852 / 1000;
 
 
-            Console.Write("O resultado da conversão é: ");
-            Console.WriteLine(saida);
+            Console.Write("O resultado da conversão é: {0}",saida);
         }
     }
 }
