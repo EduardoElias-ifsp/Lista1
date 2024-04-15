@@ -22,8 +22,7 @@ namespace Lista1ex1
 
             area = b * a;
 
-            Console.Write("A área do retângulo é: ");
-            Console.WriteLine(area);
+            Console.Write("A área do retângulo é: {0}",area);
         }
     }
 }
